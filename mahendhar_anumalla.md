@@ -12,13 +12,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-[cite_start]I am a dedicated **Scientist-I** at the **International Rice Research Institute (IRRI)**, South Asia Hub, Hyderabad[cite: 1, 2, 4]. [cite_start]My work centers on the **Late Maturity Breeding Program** and **Product Development**[cite: 2, 3]. [cite_start]I specialize in integrating high-throughput phenotyping, modern genomic tools (GWAS, QTL Mapping), and **Genomic Selection** to develop climate-resilient rice varieties[cite: 216, 219].
+I am a dedicated **Scientist-I** at the **International Rice Research Institute (IRRI)**, South Asia Hub, Hyderabad[cite: 1, 2, 4]. My work centers on the **Late Maturity Breeding Program** and **Product Development**[cite: 2, 3]. I specialize in integrating high-throughput phenotyping, modern genomic tools (GWAS, QTL Mapping), and **Genomic Selection** to develop climate-resilient rice varieties[cite: 216, 219].
 
-- [cite_start]🔭 I’m currently working on the **Accelerated Genetic Gain in Rice (AGGRi) Alliance** and developing **Salinity & Submergence tolerant** rice varieties[cite: 7, 216].
-- [cite_start]🌱 I’m currently advancing my skills in **Multi-Omic Integration for AI Genomic Prediction** and **Python/R for Statistical Genomics**[cite: 206].
-- [cite_start]👯 I’m looking to collaborate on **Abiotic Stress Tolerance**, **Crop Improvement Strategies**, and **Genomic Prediction Models**[cite: 147, 262].
-- [cite_start]👨‍🏫 I actively provide training on **Genomic Selection, R Programming, and Experimental Design** to partners across Asia and Africa[cite: 226, 235].
-- 📄 Read my Ph.D. [cite_start]Dissertation: **[Allele mining for abiotic stress tolerance genes in rice](https://shodhganga.inflibnet.ac.in/handle/10603/118977)**[cite: 9].
+- 🔭 I’m currently working on the **Accelerated Genetic Gain in Rice (AGGRi) Alliance** and developing **Salinity & Submergence tolerant** rice varieties[cite: 7, 216].
+- 🌱 I’m currently advancing my skills in **Multi-Omic Integration for AI Genomic Prediction** and **Python/R for Statistical Genomics**[cite: 206].
+- 👯 I’m looking to collaborate on **Abiotic Stress Tolerance**, **Crop Improvement Strategies**, and **Genomic Prediction Models**[cite: 147, 262].
+- 👨‍🏫 I actively provide training on **Genomic Selection, R Programming, and Experimental Design** to partners across Asia and Africa[cite: 226, 235].
+- 📄 Read my Ph.D. Dissertation: **[Allele mining for abiotic stress tolerance genes in rice](https://shodhganga.inflibnet.ac.in/handle/10603/118977)**[cite: 9].
 
 ---
 
@@ -48,14 +48,14 @@
 
 | Designation | Duration | Institute | Project / Focus |
 | :--- | :--- | :--- | :--- |
-| **Scientist-I** | *Mar 2024 - Present* | **IRRI South Asia Hub**, Hyderabad | [cite_start]Accelerated Genetic Gain in Rice (AGGRi) Alliance [cite: 7] |
-| **Post-Doctoral Fellow** | *May 2020 - Feb 2024* | **IRRI HQ**, Philippines | AGGRi Alliance; [cite_start]Salinity & Submergence Tolerance [cite: 7] |
-| **On-the-job Trainee** | *Mar 2020 - May 2020* | **IRRI HQ**, Philippines | [cite_start]Green Super Rice (GSR) [cite: 7] |
-| **Research Scholar** | *June 2017 - Mar 2020* | **IRRI HQ**, Philippines | [cite_start]Green Super Rice (GSR) [cite: 7] |
-| **Senior Research Fellow** | *June 2016 - Mar 2017* | **ICAR-NRRI**, Cuttack | [cite_start]National Initiative on Climate Resilient Agriculture (NICRA) [cite: 7] |
-| **Research Scholar** | *June 2014 - May 2016* | **ICAR-NRRI**, Cuttack | [cite_start]Bioprospecting of genes for abiotic stress [cite: 7] |
-| **Senior Research Fellow** | *Aug 2009 - May 2014* | **ICAR-NRRI**, Cuttack | [cite_start]Allele mining for abiotic stress tolerance [cite: 7] |
-| **Project Assistant** | *Nov 2008 - June 2009* | **ICAR-IIRR**, Hyderabad | [cite_start]Biofortification [cite: 7] |
+| **Scientist-I** | *Mar 2024 - Present* | **IRRI South Asia Hub**, Hyderabad | Accelerated Genetic Gain in Rice (AGGRi) Alliance [cite: 7] |
+| **Post-Doctoral Fellow** | *May 2020 - Feb 2024* | **IRRI HQ**, Philippines | AGGRi Alliance; Salinity & Submergence Tolerance [cite: 7] |
+| **On-the-job Trainee** | *Mar 2020 - May 2020* | **IRRI HQ**, Philippines | Green Super Rice (GSR) [cite: 7] |
+| **Research Scholar** | *June 2017 - Mar 2020* | **IRRI HQ**, Philippines | Green Super Rice (GSR) [cite: 7] |
+| **Senior Research Fellow** | *June 2016 - Mar 2017* | **ICAR-NRRI**, Cuttack | National Initiative on Climate Resilient Agriculture (NICRA) [cite: 7] |
+| **Research Scholar** | *June 2014 - May 2016* | **ICAR-NRRI**, Cuttack | Bioprospecting of genes for abiotic stress [cite: 7] |
+| **Senior Research Fellow** | *Aug 2009 - May 2014* | **ICAR-NRRI**, Cuttack | Allele mining for abiotic stress tolerance [cite: 7] |
+| **Project Assistant** | *Nov 2008 - June 2009* | **ICAR-IIRR**, Hyderabad | Biofortification [cite: 7] |
 
 ---
 
@@ -63,20 +63,20 @@
 
 | Year | Degree | University | Dissertation / Focus |
 | :--- | :--- | :--- | :--- |
-| **2017** | **Ph.D. (Biotechnology)** | Utkal University, Odisha | [cite_start]*Allele mining for abiotic stress tolerance genes in rice* [cite: 9] |
-| **2008** | **M.Sc. (Biotechnology)** | Osmania University, Hyderabad | [cite_start]*Analysis of genetical diversity among rice genotypes with differential Fe & Zn content* [cite: 9] |
-| **2006** | **B.Sc.** | Kakatiya University, Telangana | [cite_start]Botany, Zoology & Chemistry [cite: 9] |
+| **2017** | **Ph.D. (Biotechnology)** | Utkal University, Odisha | *Allele mining for abiotic stress tolerance genes in rice* [cite: 9] |
+| **2008** | **M.Sc. (Biotechnology)** | Osmania University, Hyderabad | *Analysis of genetical diversity among rice genotypes with differential Fe & Zn content* [cite: 9] |
+| **2006** | **B.Sc.** | Kakatiya University, Telangana | Botany, Zoology & Chemistry [cite: 9] |
 
 ---
 
 ### 🏆 Awards and Recognition
 
-* [cite_start]🥇 **Best Presentation Award (2024):** 13th National Seed Congress, Varanasi[cite: 242].
-* 🥇 **Scientist of The Year Award (2021):** 3rd Int. [cite_start]Conf. on GIAFAS[cite: 242].
-* 🥇 **Excellence in Research Award (2021):** Int. [cite_start]Conf. on AAEBSD[cite: 244].
-* [cite_start]🥇 **Best Researcher Award (2021):** SHEN Awards[cite: 244].
-* [cite_start]🥇 **Young Researcher Award (2021):** Institute of Scholars (InSc)[cite: 245].
-* [cite_start]💰 **Seed Grant Award (2019-2020):** **US$10,000** at IRRI, Philippines[cite: 248].
+* 🥇 **Best Presentation Award (2024):** 13th National Seed Congress, Varanasi[cite: 242].
+* 🥇 **Scientist of The Year Award (2021):** 3rd Int. Conf. on GIAFAS[cite: 242].
+* 🥇 **Excellence in Research Award (2021):** Int. Conf. on AAEBSD[cite: 244].
+* 🥇 **Best Researcher Award (2021):** SHEN Awards[cite: 244].
+* 🥇 **Young Researcher Award (2021):** Institute of Scholars (InSc)[cite: 245].
+* 💰 **Seed Grant Award (2019-2020):** **US$10,000** at IRRI, Philippines[cite: 248].
 
 ---
 
@@ -84,29 +84,29 @@
 
 | Journal | Role | Since |
 | :--- | :--- | :--- |
-| **Frontiers in Plant Science** | Reviewer | [cite_start]Feb 2021 [cite: 240] |
-| **Int. Journal of Agriculture Science** | Associate Editor | [cite_start]Nov 2019 [cite: 240] |
-| **Bio-protocol** | Reviewer & Editor | [cite_start]Aug 2018 [cite: 240] |
-| **Rice Science** | Reviewer | [cite_start]Mar 2021 [cite: 240] |
+| **Frontiers in Plant Science** | Reviewer | Feb 2021 [cite: 240] |
+| **Int. Journal of Agriculture Science** | Associate Editor | Nov 2019 [cite: 240] |
+| **Bio-protocol** | Reviewer & Editor | Aug 2018 [cite: 240] |
+| **Rice Science** | Reviewer | Mar 2021 [cite: 240] |
 
 ---
 
 ### 👨‍🏫 Mentorship (Guided M.Sc./Ph.D. Students)
 
 I have guided students from **UPLB (Philippines)**, **Siksha 'O' Anusandhan University**, and **SRM University** on projects involving:
-* [cite_start]*Genetic Dissection of Plant Height and Flowering Time* (Gem Faustino, M.Sc) [cite: 233]
-* [cite_start]*QTL Mapping for Stagnant Flooding Tolerance* (Ben Labaco, M.Sc) [cite: 233]
-* [cite_start]*GWAS for Stagnant-Flooding Tolerance* (Sudharshani Patthirana, Ph.D.) [cite: 233]
-* [cite_start]*Molecular Genetic Diversity & Blast Resistance* [cite: 233]
+* *Genetic Dissection of Plant Height and Flowering Time* (Gem Faustino, M.Sc) [cite: 233]
+* *QTL Mapping for Stagnant Flooding Tolerance* (Ben Labaco, M.Sc) [cite: 233]
+* *GWAS for Stagnant-Flooding Tolerance* (Sudharshani Patthirana, Ph.D.) [cite: 233]
+* *Molecular Genetic Diversity & Blast Resistance* [cite: 233]
 
 ---
 
 ### 📚 Selected Recent Publications
-* **Anumalla M**, et al. (2025). *Future flooding tolerant rice germplasm: resilience afforded beyond Sub1A gene*. [cite_start]The Plant Genome (Under Review)[cite: 141].
-* **Anumalla M**, et al. (2025). [cite_start]*Climate-Smart Breeding: Salinity-Tolerant Rice A Sustainable Solution*. iScience[cite: 146].
-* Khanna A, **Anumalla M**, et al. (2024). *Rice Salinity Breeding at IRRI: Genetic Gains Achieved and Future Breeding Resource*. [cite_start]Theoretical and Applied Genetics[cite: 12].
-* Hussain W, **Anumalla M**, et al. (2024). *Revisiting FR13A for submergence tolerance: beyond the SUB1A gene*. [cite_start]Journal of Experimental Botany[cite: 24].
-* Hussain W, **Anumalla M**, et al. (2022). *Open-source analytical pipeline for robust data analysis... in crop breeding*. [cite_start]BMC Plant Methods[cite: 28].
+* **Anumalla M**, et al. (2025). *Future flooding tolerant rice germplasm: resilience afforded beyond Sub1A gene*. The Plant Genome (Under Review)[cite: 141].
+* **Anumalla M**, et al. (2025). *Climate-Smart Breeding: Salinity-Tolerant Rice A Sustainable Solution*. iScience[cite: 146].
+* Khanna A, **Anumalla M**, et al. (2024). *Rice Salinity Breeding at IRRI: Genetic Gains Achieved and Future Breeding Resource*. Theoretical and Applied Genetics[cite: 12].
+* Hussain W, **Anumalla M**, et al. (2024). *Revisiting FR13A for submergence tolerance: beyond the SUB1A gene*. Journal of Experimental Botany[cite: 24].
+* Hussain W, **Anumalla M**, et al. (2022). *Open-source analytical pipeline for robust data analysis... in crop breeding*. BMC Plant Methods[cite: 28].
 
 > *Author of multiple book chapters and over 40+ research papers.*
 
@@ -115,9 +115,9 @@ I have guided students from **UPLB (Philippines)**, **Siksha 'O' Anusandhan Univ
 ### 🗣️ Training & Workshops Provided
 
 I serve as a **Resource Person** for training scientists and students in:
-* [cite_start]**Genomic Selection & Data-Driven Crop Breeding:** IRRI HQ, IIRR India, CUTM Odisha[cite: 235].
-* [cite_start]**R Programming for Statistical Analysis:** Training provided to BRRI Scientists (Bangladesh) and internal RBI teams[cite: 235].
-* [cite_start]**Experimental Design & Data Analysis:** CLRRI Vietnam[cite: 235].
+* **Genomic Selection & Data-Driven Crop Breeding:** IRRI HQ, IIRR India, CUTM Odisha[cite: 235].
+* **R Programming for Statistical Analysis:** Training provided to BRRI Scientists (Bangladesh) and internal RBI teams[cite: 235].
+* **Experimental Design & Data Analysis:** CLRRI Vietnam[cite: 235].
 
 ---
 
