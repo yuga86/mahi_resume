@@ -1,243 +1,116 @@
-<div align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E8B57&center=true&vCenter=true&width=940&lines=Dr.+Sudhakar+Reddy+Basu;Plant+Breeder+%7C+Bioinformatician+%7C+Data+Scientist;Genomics+%7C+QTL+Mapping+%7C+GWAS+%7C+Multi-Omics](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=2E8B57&width=435&lines=Dr.+Mahender+ANUMALLA;Rice+Breeding+Innovation+(RBI)+%7C+Genomic+Prediction+Expert;A+passionate+Scientist+%7C+Bioinformatician+%7C+Data+Scientist)" alt="Typing SVG" />
-</div>
+# Hi, I'm Dr. Mahender ANUMALLA 👋
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=sudhakarbasu&label=Profile%20Views&color=2E8B57&style=for-the-badge)](https://github.com/sudhakarbasu)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudhakar-reddy-basu)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basusudhakarreddy@gmail.com)
-  
-</div>
+### 🌾 Scientist-I | Rice Breeding Innovation (RBI) | Genomic Prediction Expert
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[cite_start]I am a dedicated **Scientist-I** at the **International Rice Research Institute (IRRI)**, South Asia Hub, Hyderabad[cite: 1, 2, 4]. [cite_start]My work centers on the **Late Maturity Breeding Program** and **Product Development**[cite: 2, 3]. [cite_start]I specialize in integrating high-throughput phenotyping, modern genomic tools (GWAS, QTL Mapping), and **Genomic Selection** to develop climate-resilient rice varieties[cite: 216, 219].
 
-## About Me
-
-I'm a **Plant Breeder and Bioinformatics Researcher** focused on applying **quantitative genetics, genomics, and data science** to accelerate crop improvement. Currently working as **Research Associate-III at ICAR-IASRI, New Delhi**, I specialize in integrating multi-omics data to identify genes responsible for important agronomic traits.
-
-- **Current Role**: Research Associate-III at ICAR-IASRI (Sept 2024 - Present)
-- **Expertise**: QTL Mapping, GWAS, RNA-seq, QTL-seq, Multi-omics Integration
-- **Research Focus**: Developing stress-tolerant, high-yielding crop varieties through data-driven breeding
-- **Crops**: Rice, Mustard, Cucumber, Cauliflower, Guava, Capsicum, and more
-- **Education**: PhD in Genetics & Plant Breeding (GBPUAT Pantnagar, 2023)
-- **Learning**: Machine Learning & Deep Learning for Agricultural Applications
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Current Research Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Guava QTL Mapping
-- WGS-based genotyping for biochemical & morphological traits
-- Genomic region annotation for target traits
-
-### Capsicum Disease Resistance
-- QTL-seq analysis for *Phytophthora capsici* resistance
-- Trait-linked primer design & validation
-
-</td>
-<td width="50%">
-
-### Cucurbits Database
-- QTL database development from published studies
-- Meta-QTL & transcriptome analysis for stress & quality traits
-
-### Cucumber & Cauliflower
-- QTL-seq and GBS mapping for disease resistance
-- Candidate gene annotation in significant genomic regions
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Skills & Expertise
-
-### Biotechnology
-![Gene Cloning](https://img.shields.io/badge/Gene_Cloning-2E8B57?style=flat-square)
-![Molecular Markers](https://img.shields.io/badge/Molecular_Markers-4682B4?style=flat-square)
-![KASP](https://img.shields.io/badge/KASP-20B2AA?style=flat-square)
-![CAPS](https://img.shields.io/badge/CAPS-3CB371?style=flat-square)
-![SSR](https://img.shields.io/badge/SSR-66CDAA?style=flat-square)
-![MABC](https://img.shields.io/badge/MABC-48D1CC?style=flat-square)
-![MAS](https://img.shields.io/badge/MAS-40E0D0?style=flat-square)
-
-### Programming & Tools
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Bioinformatics & Analysis
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Genomics**
-- Genome Assembly
-- Variant Calling
-- WGS Analysis
-- GBS Analysis
-
-**Transcriptomics**
-- RNA-Seq Analysis
-- Differential Expression
-- Gene Expression Profiling
-
-</td>
-<td width="33%" valign="top">
-
-**Quantitative Genetics**
-- GWAS
-- QTL Mapping
-- QTL-seq Analysis
-- Meta-QTL Analysis
-- Genomic Selection
-
-**Statistical Analysis**
-- Statistical Genetics
-- Experimental Design
-- Data Visualization
-
-</td>
-<td width="34%" valign="top">
-
-**Integrative Analysis**
-- Multi-omics Integration
-- Systems Biology
-- Pathway Analysis
-
-**Structural Biology**
-- Molecular Docking
-- Protein Modeling
-
-**Data Management**
-- Pipeline Development
-- Database Design
-
-</td>
-</tr>
-</table>
-
-### Laboratory & Analytical Techniques
-
-| Technique | Application | Purpose |
-|-----------|-------------|---------|
-| **Gas Chromatography (GC)** | Fatty Acid Profiling | Quality trait analysis in breeding lines |
-| **Atomic Absorption Spectrometry (AAS)** | Mineral Quantification | Biofortification studies (Fe, Zn content) |
-| **Spectrophotometry** | Biochemical Assays | Glucosinolate and metabolite quantification |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Work Experience
-
-### Research Associate-III
-**ICAR-IASRI, New Delhi** | *Sept 2024 - Present*
-
-- Analyzing large-scale genotypic and phenotypic datasets for marker-trait associations
-- Integrating multi-omics data (genomics, transcriptomics, proteomics, metabolomics)
-- Collaborating with breeders and biotechnologists for gene/marker validation
-- Active projects: Guava, Capsicum, Cucurbits Database, Cucumber, Cauliflower
-
-### Senior Research Fellow
-**ICAR-IARI, New Delhi** | *July 2023 - Aug 2024*
-
-- Conducted GWAS in Indian mustard for heat stress tolerance
-- Fatty acid profiling and glucosinolate quantification (GC analysis)
-- Marker-assisted selection for white rust resistance introgression
-- Identified candidate genes for early flowering and climate resilience
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Education
-
-**PhD in Genetics and Plant Breeding** (2023)  
-*Govind Ballabh Pant University of Agriculture and Technology, Pantnagar*  
-Thesis: "Genetic Analysis for Yield, Quality and Nutritional Traits in Basmati Rice"
-
-**MS in Genetics and Plant Breeding** (2017)  
-*Acharya N G Ranga Agriculture University, Andhra Pradesh*  
-Thesis: "Evaluation and Characterization of Rice Near Isogenic Lines for Major Abiotic Stresses"  
-**Best Student Researcher Award**
-
-**BS in Agricultural Sciences** (2015)  
-*Acharya N G Ranga Agriculture University, Andhra Pradesh*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Recent Publications (2025)
-
-1. **Reddy, B.S.**, Baskheti, D.C., Pandey, I.D. et al. (2025). Harnessing genetic diversity and heterosis in basmati rice for biofortification and yield improvement. *Journal of Crop Science and Biotechnology*, 28(4), 475–496. [DOI: 10.1007/s12892-025-00294-3](https://doi.org/10.1007/s12892-025-00294-3)
-
-2. Gundreddy, R.R., **Reddy, B.S.**, Jayanth, B.V. et al. (2025). Molecular identification and virulence assessment of *Metarhizium rileyi* isolates against fall armyworm. *Arch Microbiol*, 207, 313. [DOI: 10.1007/s00203-025-04506-w](https://doi.org/10.1007/s00203-025-04506-w)
-
-3. Showkat, M., Narayanappa, N., Ali, J., **Reddy, B.S.** et al. (2025). Evaluating the Antifungal Efficacy of Cordycepin Against *Fusarium oxysporum* f. Sp. cubense. *Journal of Basic Microbiology*. [DOI: 10.1002/jobm.70100](https://doi.org/10.1002/jobm.70100)
-
-4. Patel, M.K., Saini, N., Taak, Y., Adhikari, S., Chaudhary, R., **Reddy, B.S.** et al. (2025). Genome-wide association study uncovers key genomic regions governing agro-morphological and quality traits in Indian mustard. *PLOS One*, 20(4), e0322120. [DOI: 10.1371/journal.pone.0322120](https://doi.org/10.1371/journal.pone.0322120)
-
-5. Taak, Y., Patel, M.K., Chaudhary, R., **Reddy, B.S.** et al. (2025). Determining Drought- and Heat-Tolerant Genotypes in Indian Mustard Employing GGE Biplot Analysis. *Agricultural Research*. [DOI: 10.1007/s40003-025-00866-3](https://doi.org/10.1007/s40003-025-00866-3)
-
-6. Gull, M., Shikari, A.B., Khan, G.H., Sofi, P.A., Ahanger, M.A., **Reddy, B.S.** et al. (2025). Marker assisted introgression of blast resistance genes into Heritage Red Rice Landrace "Zag". *Physiological and Molecular Plant Pathology*, 139, 102820. [DOI: 10.1016/j.pmpp.2025.102820](https://doi.org/10.1016/j.pmpp.2025.102820)
-
-<details>
-<summary>Earlier Publications (2018)</summary>
-
-7. **Reddy, B.S.** & Girija M (2018). Molecular and Morphological Characterization of near Isogenic Lines Developed for Major Abiotic Stresses of Rice. *International Journal of Current Microbiology and Applied Sciences*, 7(1), 2782–2797. [DOI: 10.20546/ijcmas.2018.701.333](https://doi.org/10.20546/ijcmas.2018.701.333)
-
-8. **Reddy, B.S.** & Girija M (2018). Evaluation of Near Isogenic Lines (NILs) of rice for major abiotic stresses of coastal areas. *Electronic Journal of Plant Breeding*, 9(3), 808. [DOI: 10.5958/0975-928X.2018.00101.1](https://doi.org/10.5958/0975-928X.2018.00101.1)
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SudhakarBasu&theme=algolia" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SudhakarBasu&theme=algolia" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SudhakarBasu&theme=algolia" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SudhakarBasu&theme=algolia" alt="Repos Per Language"/>
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SudhakarBasu&theme=algolia&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudhakarBasu&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhakar_Reddy_Basu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhakar-reddy-basu)
-[![Gmail](https://img.shields.io/badge/Gmail-basusudhakarreddy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basusudhakarreddy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SudhakarBasu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhakarBasu)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
-</div>
+- [cite_start]🔭 I’m currently working on the **Accelerated Genetic Gain in Rice (AGGRi) Alliance** and developing **Salinity & Submergence tolerant** rice varieties[cite: 7, 216].
+- [cite_start]🌱 I’m currently advancing my skills in **Multi-Omic Integration for AI Genomic Prediction** and **Python/R for Statistical Genomics**[cite: 206].
+- [cite_start]👯 I’m looking to collaborate on **Abiotic Stress Tolerance**, **Crop Improvement Strategies**, and **Genomic Prediction Models**[cite: 147, 262].
+- [cite_start]👨‍🏫 I actively provide training on **Genomic Selection, R Programming, and Experimental Design** to partners across Asia and Africa[cite: 226, 235].
+- 📄 Read my Ph.D. [cite_start]Dissertation: **[Allele mining for abiotic stress tolerance genes in rice](https://shodhganga.inflibnet.ac.in/handle/10603/118977)**[cite: 9].
 
 ---
 
-<div align="center">
-  <i>"Bridging the gap between traditional plant breeding and modern computational genomics to feed the future"</i>
-</div>
+<h3 align="left">📫 Connect with me:</h3>
+<p align="left">
+<a href="mailto:m.anumalla@irri.org"><img src="https://img.shields.io/badge/Work-m.anumalla@irri.org-blue?style=flat&logo=gmail" alt="Work Email"/></a>
+<a href="mailto:mahenderbio@gmail.com"><img src="https://img.shields.io/badge/Personal-mahenderbio@gmail.com-red?style=flat&logo=gmail" alt="Personal Email"/></a>
+<a href="skype:mahenderbio?chat"><img src="https://img.shields.io/badge/Skype-mahenderbio-00AFF0?style=flat&logo=skype" alt="Skype"/></a>
+<img src="https://img.shields.io/badge/Mobile-+91 9849739435-green?style=flat&logo=whatsapp" alt="Mobile"/>
+</p>
+
+---
+
+<h3 align="left">🛠 Languages and Tools:</h3>
+<p align="left">
+ <img src="https://img.shields.io/badge/R_Programming-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+ <img src="https://img.shields.io/badge/SAS-007DC3?style=for-the-badge&logo=sas&logoColor=white" />
+ <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+ <img src="https://img.shields.io/badge/Genomic_Selection-ForestGreen?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/GWAS_&_QTL_Mapping-Orange?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Bioinformatics-DeepSkyBlue?style=for-the-badge&logo=dna" />
+</p>
+
+---
+
+### 💼 Professional Experience
+
+| Designation | Duration | Institute | Project / Focus |
+| :--- | :--- | :--- | :--- |
+| **Scientist-I** | *Mar 2024 - Present* | **IRRI South Asia Hub**, Hyderabad | [cite_start]Accelerated Genetic Gain in Rice (AGGRi) Alliance [cite: 7] |
+| **Post-Doctoral Fellow** | *May 2020 - Feb 2024* | **IRRI HQ**, Philippines | AGGRi Alliance; [cite_start]Salinity & Submergence Tolerance [cite: 7] |
+| **On-the-job Trainee** | *Mar 2020 - May 2020* | **IRRI HQ**, Philippines | [cite_start]Green Super Rice (GSR) [cite: 7] |
+| **Research Scholar** | *June 2017 - Mar 2020* | **IRRI HQ**, Philippines | [cite_start]Green Super Rice (GSR) [cite: 7] |
+| **Senior Research Fellow** | *June 2016 - Mar 2017* | **ICAR-NRRI**, Cuttack | [cite_start]National Initiative on Climate Resilient Agriculture (NICRA) [cite: 7] |
+| **Research Scholar** | *June 2014 - May 2016* | **ICAR-NRRI**, Cuttack | [cite_start]Bioprospecting of genes for abiotic stress [cite: 7] |
+| **Senior Research Fellow** | *Aug 2009 - May 2014* | **ICAR-NRRI**, Cuttack | [cite_start]Allele mining for abiotic stress tolerance [cite: 7] |
+| **Project Assistant** | *Nov 2008 - June 2009* | **ICAR-IIRR**, Hyderabad | [cite_start]Biofortification [cite: 7] |
+
+---
+
+### 🎓 Educational Credentials
+
+| Year | Degree | University | Dissertation / Focus |
+| :--- | :--- | :--- | :--- |
+| **2017** | **Ph.D. (Biotechnology)** | Utkal University, Odisha | [cite_start]*Allele mining for abiotic stress tolerance genes in rice* [cite: 9] |
+| **2008** | **M.Sc. (Biotechnology)** | Osmania University, Hyderabad | [cite_start]*Analysis of genetical diversity among rice genotypes with differential Fe & Zn content* [cite: 9] |
+| **2006** | **B.Sc.** | Kakatiya University, Telangana | [cite_start]Botany, Zoology & Chemistry [cite: 9] |
+
+---
+
+### 🏆 Awards and Recognition
+
+* [cite_start]🥇 **Best Presentation Award (2024):** 13th National Seed Congress, Varanasi[cite: 242].
+* 🥇 **Scientist of The Year Award (2021):** 3rd Int. [cite_start]Conf. on GIAFAS[cite: 242].
+* 🥇 **Excellence in Research Award (2021):** Int. [cite_start]Conf. on AAEBSD[cite: 244].
+* [cite_start]🥇 **Best Researcher Award (2021):** SHEN Awards[cite: 244].
+* [cite_start]🥇 **Young Researcher Award (2021):** Institute of Scholars (InSc)[cite: 245].
+* [cite_start]💰 **Seed Grant Award (2019-2020):** **US$10,000** at IRRI, Philippines[cite: 248].
+
+---
+
+### ✍️ Editorial & Reviewer Roles
+
+| Journal | Role | Since |
+| :--- | :--- | :--- |
+| **Frontiers in Plant Science** | Reviewer | [cite_start]Feb 2021 [cite: 240] |
+| **Int. Journal of Agriculture Science** | Associate Editor | [cite_start]Nov 2019 [cite: 240] |
+| **Bio-protocol** | Reviewer & Editor | [cite_start]Aug 2018 [cite: 240] |
+| **Rice Science** | Reviewer | [cite_start]Mar 2021 [cite: 240] |
+
+---
+
+### 👨‍🏫 Mentorship (Guided M.Sc./Ph.D. Students)
+
+I have guided students from **UPLB (Philippines)**, **Siksha 'O' Anusandhan University**, and **SRM University** on projects involving:
+* [cite_start]*Genetic Dissection of Plant Height and Flowering Time* (Gem Faustino, M.Sc) [cite: 233]
+* [cite_start]*QTL Mapping for Stagnant Flooding Tolerance* (Ben Labaco, M.Sc) [cite: 233]
+* [cite_start]*GWAS for Stagnant-Flooding Tolerance* (Sudharshani Patthirana, Ph.D.) [cite: 233]
+* [cite_start]*Molecular Genetic Diversity & Blast Resistance* [cite: 233]
+
+---
+
+### 📚 Selected Recent Publications
+* **Anumalla M**, et al. (2025). *Future flooding tolerant rice germplasm: resilience afforded beyond Sub1A gene*. [cite_start]The Plant Genome (Under Review)[cite: 141].
+* **Anumalla M**, et al. (2025). [cite_start]*Climate-Smart Breeding: Salinity-Tolerant Rice A Sustainable Solution*. iScience[cite: 146].
+* Khanna A, **Anumalla M**, et al. (2024). *Rice Salinity Breeding at IRRI: Genetic Gains Achieved and Future Breeding Resource*. [cite_start]Theoretical and Applied Genetics[cite: 12].
+* Hussain W, **Anumalla M**, et al. (2024). *Revisiting FR13A for submergence tolerance: beyond the SUB1A gene*. [cite_start]Journal of Experimental Botany[cite: 24].
+* Hussain W, **Anumalla M**, et al. (2022). *Open-source analytical pipeline for robust data analysis... in crop breeding*. [cite_start]BMC Plant Methods[cite: 28].
+
+> *Author of multiple book chapters and over 40+ research papers.*
+
+---
+
+### 🗣️ Training & Workshops Provided
+
+I serve as a **Resource Person** for training scientists and students in:
+* [cite_start]**Genomic Selection & Data-Driven Crop Breeding:** IRRI HQ, IIRR India, CUTM Odisha[cite: 235].
+* [cite_start]**R Programming for Statistical Analysis:** Training provided to BRRI Scientists (Bangladesh) and internal RBI teams[cite: 235].
+* [cite_start]**Experimental Design & Data Analysis:** CLRRI Vietnam[cite: 235].
+
+---
+
+<p align="center">
+  <i>"Translating Research to Farmers' Fields: Path Forward to Successfully Deliver Climate Resilient Rice Varieties."</i>
+</p>
