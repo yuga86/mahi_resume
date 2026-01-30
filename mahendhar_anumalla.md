@@ -1,9 +1,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=2E8B57&center=true&vCenter=true&width=950&lines=Dr.+Mahender+ANUMALLA;Scientist-I+%7C+Rice+Breeder%7C+DataScientist;Genomic+Prediction+Expert+-GWAS%7CQTL%7CMapping" alt="Typing SVG" />
 </div>
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=sudhakarbasu&label=Profile%20Views&color=2E8B57&style=for-the-badge)](https://github.com/sudhakarbasu)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudhakar-reddy-basu)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basusudhakarreddy@gmail.com)
+  
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🌾 Scientist-I | Rice Breeding Innovation (RBI) | Genomic Prediction Expert
 
 [cite_start]I am a dedicated **Scientist-I** at the **International Rice Research Institute (IRRI)**, South Asia Hub, Hyderabad[cite: 1, 2, 4]. [cite_start]My work centers on the **Late Maturity Breeding Program** and **Product Development**[cite: 2, 3]. [cite_start]I specialize in integrating high-throughput phenotyping, modern genomic tools (GWAS, QTL Mapping), and **Genomic Selection** to develop climate-resilient rice varieties[cite: 216, 219].
 
