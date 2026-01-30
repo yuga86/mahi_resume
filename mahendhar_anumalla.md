@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=2E8B57&width=435&lines=Dr.+Mahender+ANUMALLA;Rice+Breeding+Innovation+(RBI)+%7C+Genomic+Prediction+Expert;A+passionate+Scientist+%7C+Bioinformatician+%7C+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=2E8B57&center=true&vCenter=true&width=950&lines=Dr.+Mahender+ANUMALLA;Scientist-I+%7C+Rice+Breeder%7C+DataScientist;Genomic+Prediction+Expert+(GWAS%7CQTL%7CMapping" alt="Typing SVG" />
 </div>
 
 
